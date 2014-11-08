@@ -30,7 +30,7 @@ void printNode (st_node* cur_node){
 		node = node->next;
 	}while(node->next != NULL);
 	printf("%d ", node->value);
-	//Comment
+	//Comment2
 }
 
 int main(void){
